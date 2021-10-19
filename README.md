@@ -1,8 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Software Engineer</h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20and%20Blockchain%20developer;8+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
-</p>
 have more than 7+ years of experience in Software (FullStack, DevOps, Front-end, Backend, APP, Game) Development & Engineering.
 I also have excellent teamwork skills and collaborate closely with the development team and independently have rich experience in write reusable, testable, and efficient code, a fast learner with fluent English reading and writing, speaking, understanding skills, and code explanations.
 With my rich experience in writing reusable, testable, and efficient code that meets our clients’ needs and integrating user-facing elements into applications, I think I would be a great addition to your business. <br>
@@ -16,34 +13,9 @@ With my rich experience in writing reusable, testable, and efficient code that m
 
 <h1 style="font-size:42px" align="center">Contact me</h1>
 <h4>
-<!-- <b>Gmail</b>: artsiomliaver@gmail.com<br>
-<b>skype</b>: live:.cid.626f9a797d9b6ef9 -->
-<img align="right" src="https://komarev.com/ghpvc/?username=webmaster1116"/>
+<b>Gmail</b>: artsiomliaver@gmail.com<br>
+<b>skype</b>: live:.cid.626f9a797d9b6ef9<br>
   
 </h4>
 
 <br> 
-
-<div align="center">
-  <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/webmaster1116/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-   -->
-   <img src="https://github-profile-trophy.vercel.app/?username=webmaster1116&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
-</div>
-
-
-<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
-![](https://hit.yhype.me/github/profile?user_id=75884770)
-
-
-
