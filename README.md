@@ -13,8 +13,7 @@ With my rich experience in writing reusable, testable, and efficient code that m
 
 <h1 style="font-size:42px" align="center">Contact me</h1>
 <h4>
-<b>Gmail</b>: artsiomliaver@gmail.com<br>
-<b>skype</b>: live:.cid.626f9a797d9b6ef9<br>
+<b>Skype</b>: live:.cid.b1a38583392e35b0<br>
   
 </h4>
 
