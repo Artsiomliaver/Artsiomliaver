@@ -37,6 +37,13 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=futuresea-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -55,11 +62,6 @@
 <img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=futuresea-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=futuresea-dev&icon=4&color=1)](https://visitcount.itsvg.in)
