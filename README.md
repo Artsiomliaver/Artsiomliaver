@@ -55,13 +55,10 @@
 <img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
 
-
-
-<br/>
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=futuresea-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
