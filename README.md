@@ -62,7 +62,6 @@
 <img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
 
-
----
+#
 [![](https://visitcount.itsvg.in/api?id=futuresea-dev&icon=4&color=1)](https://visitcount.itsvg.in)
 
