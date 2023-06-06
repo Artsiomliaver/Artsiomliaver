@@ -10,6 +10,8 @@
 <img align="right" alt="GIF" src="https://github.com/GruDev325/GruDev325/blob/main/image/grudev325.gif" width="450" height="270" />
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
